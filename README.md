@@ -35,10 +35,14 @@
 
 <div align="center">
 
-[![korean-law-mcp](https://github-readme-stats.vercel.app/api/pin/?username=chrisryugj&repo=korean-law-mcp&theme=tokyonight&hide_border=true)](https://github.com/chrisryugj/korean-law-mcp)
-[![kordoc](https://github-readme-stats.vercel.app/api/pin/?username=chrisryugj&repo=kordoc&theme=tokyonight&hide_border=true)](https://github.com/chrisryugj/kordoc)
-[![Docufinder](https://github-readme-stats.vercel.app/api/pin/?username=chrisryugj&repo=Docufinder&theme=tokyonight&hide_border=true)](https://github.com/chrisryugj/Docufinder)
-[![lexdiff](https://github-readme-stats.vercel.app/api/pin/?username=chrisryugj&repo=lexdiff&theme=tokyonight&hide_border=true)](https://github.com/chrisryugj/lexdiff)
+| Project | | |
+|---|---|---|
+| [**korean-law-mcp**](https://github.com/chrisryugj/korean-law-mcp) | 법제처 국가법령정보 MCP — 법령·판례·조례 + 인용 환각 검증 | [![Stars](https://img.shields.io/github/stars/chrisryugj/korean-law-mcp?style=flat-square&color=0891b2)](https://github.com/chrisryugj/korean-law-mcp/stargazers) |
+| [**kordoc**](https://github.com/chrisryugj/kordoc) | 모두 파싱해버리겠다 — HWP·HWPX·PDF·Office → Markdown | [![Stars](https://img.shields.io/github/stars/chrisryugj/kordoc?style=flat-square&color=0891b2)](https://github.com/chrisryugj/kordoc/stargazers) |
+| [**Docufinder**](https://github.com/chrisryugj/Docufinder) | 파일을 찾지 말고, 내용을 찾으세요 — 로컬 문서 본문 검색 | [![Stars](https://img.shields.io/github/stars/chrisryugj/Docufinder?style=flat-square&color=0891b2)](https://github.com/chrisryugj/Docufinder/stargazers) |
+| [**korean-dart-mcp**](https://github.com/chrisryugj/korean-dart-mcp) | OpenDART 전자공시 MCP — 공시·재무·지분·XBRL | [![Stars](https://img.shields.io/github/stars/chrisryugj/korean-dart-mcp?style=flat-square&color=0891b2)](https://github.com/chrisryugj/korean-dart-mcp/stargazers) |
+| [**korean-stats-mcp**](https://github.com/chrisryugj/korean-stats-mcp) | KOSIS 통계 MCP — 이제 사이트에 들어가지 않습니다 | [![Stars](https://img.shields.io/github/stars/chrisryugj/korean-stats-mcp?style=flat-square&color=0891b2)](https://github.com/chrisryugj/korean-stats-mcp/stargazers) |
+| [**lexdiff**](https://github.com/chrisryugj/lexdiff) | 한국 법령 AI 검색 — 자연어 질문 → 원문 근거 답변 | [![Stars](https://img.shields.io/github/stars/chrisryugj/lexdiff?style=flat-square&color=0891b2)](https://github.com/chrisryugj/lexdiff/stargazers) |
 
 </div>
 
