@@ -1,0 +1,41 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="cat coding on a laptop">
+  <!-- soft round backdrop -->
+  <circle cx="150" cy="150" r="132" fill="#F1EEE7"/>
+  <circle cx="150" cy="150" r="132" fill="none" stroke="#1A1A1A" stroke-width="2"/>
+
+  <!-- little sparkles -->
+  <path d="M240 78 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z" fill="#D4472F"/>
+  <path d="M64 96 l2 6 6 2 -6 2 -2 6 -2 -6 -6 -2 6 -2z" fill="#1A1A1A"/>
+
+  <g stroke="#1A1A1A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- body sitting -->
+    <path d="M108 210 C104 168 126 150 150 150 C174 150 196 168 192 210 Z" fill="#FBFAF7"/>
+    <!-- head -->
+    <circle cx="150" cy="126" r="40" fill="#FBFAF7"/>
+    <!-- ears -->
+    <path d="M120 100 L112 70 L142 92 Z" fill="#FBFAF7"/>
+    <path d="M180 100 L188 70 L158 92 Z" fill="#FBFAF7"/>
+    <!-- tail -->
+    <path d="M192 200 C224 202 230 176 214 164" fill="none"/>
+  </g>
+
+  <!-- face -->
+  <circle cx="137" cy="124" r="4.2" fill="#1A1A1A"/>
+  <circle cx="163" cy="124" r="4.2" fill="#1A1A1A"/>
+  <path d="M146 137 q4 5 8 0" stroke="#D4472F" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  <!-- whiskers -->
+  <g stroke="#1A1A1A" stroke-width="2.5" stroke-linecap="round">
+    <path d="M112 128 l-22 -4"/><path d="M112 136 l-22 4"/>
+    <path d="M188 128 l22 -4"/><path d="M188 136 l22 4"/>
+  </g>
+
+  <!-- laptop -->
+  <g stroke="#1A1A1A" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="112" y="196" width="76" height="42" rx="5" fill="#1A1A1A"/>
+    <rect x="100" y="238" width="100" height="10" rx="5" fill="#FBFAF7"/>
+  </g>
+  <!-- code lines on screen -->
+  <g stroke="#D4472F" stroke-width="3" stroke-linecap="round">
+    <path d="M124 210 h18"/><path d="M124 219 h30"/><path d="M124 228 h14"/>
+  </g>
+</svg>
