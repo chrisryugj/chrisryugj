@@ -11,23 +11,47 @@
 
 ## 02 · Stack
 
-| | |
-|---|---|
-| **Build** | TypeScript · Rust · Python |
-| **Ship** | Vercel · MCP · Claude Code |
-| **Parse** | HWP · HWPX · PDF · Office → Markdown |
-| **Domain** | 법제처 API · 공공데이터 · 정부 문서 |
+<table width="100%">
+<tr><td width="120"><b>Build</b></td><td>TypeScript&nbsp; · &nbsp;Rust&nbsp; · &nbsp;Python</td></tr>
+<tr><td><b>Ship</b></td><td>Vercel&nbsp; · &nbsp;MCP&nbsp; · &nbsp;Claude Code</td></tr>
+<tr><td><b>Parse</b></td><td>HWP&nbsp; · &nbsp;HWPX&nbsp; · &nbsp;PDF&nbsp; · &nbsp;Office → Markdown</td></tr>
+<tr><td><b>Domain</b></td><td>법제처 API&nbsp; · &nbsp;공공데이터&nbsp; · &nbsp;정부 문서</td></tr>
+</table>
 
 ## 03 · Selected Work
 
-| | | |
-|---|---|---|
-| [**korean-law-mcp**](https://github.com/chrisryugj/korean-law-mcp) | 법제처 국가법령정보 MCP — 법령·판례·조례 + 인용 환각 검증 | ![](https://img.shields.io/github/stars/chrisryugj/korean-law-mcp?style=flat-square&label=&color=111111) |
-| [**kordoc**](https://github.com/chrisryugj/kordoc) | 모두 파싱해버리겠다 — HWP·HWPX·PDF·Office → Markdown | ![](https://img.shields.io/github/stars/chrisryugj/kordoc?style=flat-square&label=&color=111111) |
-| [**Docufinder**](https://github.com/chrisryugj/Docufinder) | 파일을 찾지 말고, 내용을 찾으세요 — 로컬 문서 본문 검색 | ![](https://img.shields.io/github/stars/chrisryugj/Docufinder?style=flat-square&label=&color=111111) |
-| [**korean-dart-mcp**](https://github.com/chrisryugj/korean-dart-mcp) | OpenDART 전자공시 MCP — 공시·재무·지분·XBRL | ![](https://img.shields.io/github/stars/chrisryugj/korean-dart-mcp?style=flat-square&label=&color=111111) |
-| [**korean-stats-mcp**](https://github.com/chrisryugj/korean-stats-mcp) | KOSIS 통계 MCP — 이제 사이트에 들어가지 않습니다 | ![](https://img.shields.io/github/stars/chrisryugj/korean-stats-mcp?style=flat-square&label=&color=111111) |
-| [**lexdiff**](https://github.com/chrisryugj/lexdiff) | 한국 법령 AI 검색 — 자연어 질문 → 원문 근거 답변 | ![](https://img.shields.io/github/stars/chrisryugj/lexdiff?style=flat-square&label=&color=111111) |
+<table width="100%">
+<tr>
+  <td width="185"><a href="https://github.com/chrisryugj/korean-law-mcp"><b>korean-law-mcp</b></a></td>
+  <td>법제처 국가법령정보 MCP — 법령·판례·조례 + 인용 환각 검증</td>
+  <td width="52" align="right"><img src="https://img.shields.io/github/stars/chrisryugj/korean-law-mcp?style=flat-square&label=&color=111111"></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/chrisryugj/kordoc"><b>kordoc</b></a></td>
+  <td>모두 파싱해버리겠다 — HWP·HWPX·PDF·Office → Markdown</td>
+  <td align="right"><img src="https://img.shields.io/github/stars/chrisryugj/kordoc?style=flat-square&label=&color=111111"></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/chrisryugj/Docufinder"><b>Docufinder</b></a></td>
+  <td>파일을 찾지 말고, 내용을 찾으세요 — 로컬 문서 본문 검색</td>
+  <td align="right"><img src="https://img.shields.io/github/stars/chrisryugj/Docufinder?style=flat-square&label=&color=111111"></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/chrisryugj/korean-dart-mcp"><b>korean-dart-mcp</b></a></td>
+  <td>OpenDART 전자공시 MCP — 공시·재무·지분·XBRL</td>
+  <td align="right"><img src="https://img.shields.io/github/stars/chrisryugj/korean-dart-mcp?style=flat-square&label=&color=111111"></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/chrisryugj/korean-stats-mcp"><b>korean-stats-mcp</b></a></td>
+  <td>KOSIS 통계 MCP — 이제 사이트에 들어가지 않습니다</td>
+  <td align="right"><img src="https://img.shields.io/github/stars/chrisryugj/korean-stats-mcp?style=flat-square&label=&color=111111"></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/chrisryugj/lexdiff"><b>lexdiff</b></a></td>
+  <td>한국 법령 AI 검색 — 자연어 질문 → 원문 근거 답변</td>
+  <td align="right"><img src="https://img.shields.io/github/stars/chrisryugj/lexdiff?style=flat-square&label=&color=111111"></td>
+</tr>
+</table>
 
 ## 04 · Signals
 
