@@ -34,10 +34,32 @@ const gomdori = {
 
 ## What I'm building
 
-- **[korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp)** <sub>★ 2.2k</sub> — 법제처 국가법령정보 MCP. 법령·판례·조례 + 인용 환각 검증
-- **[kordoc](https://github.com/chrisryugj/kordoc)** <sub>★ 1.5k</sub> — 모두 파싱해버리겠다. HWP·HWPX·PDF·Office → Markdown
-- **[Docufinder](https://github.com/chrisryugj/Docufinder)** <sub>★ 521</sub> — 파일을 찾지 말고, 내용을 찾으세요. 로컬 문서 본문 검색
-- **[korean-stats-mcp](https://github.com/chrisryugj/korean-stats-mcp)** <sub>★ 79</sub> — KOSIS 통계 MCP. 이제 사이트에 들어가지 않습니다
-- **[lexdiff](https://github.com/chrisryugj/lexdiff)** <sub>★ 37</sub> — 한국 법령 AI 검색. 자연어 질문 → 원문 근거 답변
+<table width="100%">
+<tr>
+  <td width="180"><a href="https://github.com/chrisryugj/korean-law-mcp"><b>korean-law-mcp</b></a></td>
+  <td width="64" align="right">★ 2.2k</td>
+  <td>법제처 국가법령정보 MCP. 법령·판례·조례 + 인용 환각 검증</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/chrisryugj/kordoc"><b>kordoc</b></a></td>
+  <td align="right">★ 1.5k</td>
+  <td>모두 파싱해버리겠다. HWP·HWPX·PDF·Office → Markdown</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/chrisryugj/Docufinder"><b>Docufinder</b></a></td>
+  <td align="right">★ 521</td>
+  <td>파일을 찾지 말고, 내용을 찾으세요. 로컬 문서 본문 검색</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/chrisryugj/korean-stats-mcp"><b>korean-stats-mcp</b></a></td>
+  <td align="right">★ 79</td>
+  <td>KOSIS 통계 MCP. 이제 사이트에 들어가지 않습니다</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/chrisryugj/lexdiff"><b>lexdiff</b></a></td>
+  <td align="right">★ 37</td>
+  <td>한국 법령 AI 검색. 자연어 질문 → 원문 근거 답변</td>
+</tr>
+</table>
 
 <sub>One must imagine a public servant happy. &nbsp;·&nbsp; 딴짓은 멈추지 않는다.</sub>
