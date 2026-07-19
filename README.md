@@ -34,10 +34,10 @@ const gomdori = {
 
 ## What I'm building
 
-- **[korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp)** ![](https://img.shields.io/github/stars/chrisryugj/korean-law-mcp?style=flat-square&label=%E2%98%85&color=111111&labelColor=111111) — 법제처 국가법령정보 MCP. 법령·판례·조례 + 인용 환각 검증
-- **[kordoc](https://github.com/chrisryugj/kordoc)** ![](https://img.shields.io/github/stars/chrisryugj/kordoc?style=flat-square&label=%E2%98%85&color=111111&labelColor=111111) — 모두 파싱해버리겠다. HWP·HWPX·PDF·Office → Markdown
-- **[Docufinder](https://github.com/chrisryugj/Docufinder)** ![](https://img.shields.io/github/stars/chrisryugj/Docufinder?style=flat-square&label=%E2%98%85&color=111111&labelColor=111111) — 파일을 찾지 말고, 내용을 찾으세요. 로컬 문서 본문 검색
-- **[korean-stats-mcp](https://github.com/chrisryugj/korean-stats-mcp)** ![](https://img.shields.io/github/stars/chrisryugj/korean-stats-mcp?style=flat-square&label=%E2%98%85&color=111111&labelColor=111111) — KOSIS 통계 MCP. 이제 사이트에 들어가지 않습니다
-- **[lexdiff](https://github.com/chrisryugj/lexdiff)** ![](https://img.shields.io/github/stars/chrisryugj/lexdiff?style=flat-square&label=%E2%98%85&color=111111&labelColor=111111) — 한국 법령 AI 검색. 자연어 질문 → 원문 근거 답변
+- **[korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp)** <sub>★ 2.2k</sub> — 법제처 국가법령정보 MCP. 법령·판례·조례 + 인용 환각 검증
+- **[kordoc](https://github.com/chrisryugj/kordoc)** <sub>★ 1.5k</sub> — 모두 파싱해버리겠다. HWP·HWPX·PDF·Office → Markdown
+- **[Docufinder](https://github.com/chrisryugj/Docufinder)** <sub>★ 521</sub> — 파일을 찾지 말고, 내용을 찾으세요. 로컬 문서 본문 검색
+- **[korean-stats-mcp](https://github.com/chrisryugj/korean-stats-mcp)** <sub>★ 79</sub> — KOSIS 통계 MCP. 이제 사이트에 들어가지 않습니다
+- **[lexdiff](https://github.com/chrisryugj/lexdiff)** <sub>★ 37</sub> — 한국 법령 AI 검색. 자연어 질문 → 원문 근거 답변
 
 <sub>One must imagine a public servant happy. &nbsp;·&nbsp; 딴짓은 멈추지 않는다.</sub>
