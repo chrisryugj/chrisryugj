@@ -1,32 +1,58 @@
-<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="cat coding on a laptop">
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="tuxedo cat coding on a laptop">
+  <defs>
+    <style>
+      .tail  { transform-box: fill-box; transform-origin: 20% 90%; animation: wag 2.4s ease-in-out infinite; }
+      .blink { transform-box: fill-box; transform-origin: center; animation: blink 4s ease-in-out infinite; }
+      .sp1   { animation: tw 2.6s ease-in-out infinite; }
+      .sp2   { animation: tw 2.6s ease-in-out infinite 1.1s; }
+      .c1    { animation: type 2.4s steps(1) infinite; }
+      .c2    { animation: type 2.4s steps(1) infinite .5s; }
+      .c3    { animation: type 2.4s steps(1) infinite 1s; }
+      @keyframes wag  { 0%,100%{transform:rotate(0deg)} 50%{transform:rotate(11deg)} }
+      @keyframes blink{ 0%,92%,100%{transform:scaleY(1)} 96%{transform:scaleY(.1)} }
+      @keyframes tw   { 0%,100%{opacity:.25;transform:scale(.8)} 50%{opacity:1;transform:scale(1.1)} }
+      @keyframes type { 0%,100%{opacity:.15} 12%,88%{opacity:1} }
+    </style>
+  </defs>
+
   <!-- soft round backdrop -->
   <circle cx="150" cy="150" r="132" fill="#F1EEE7"/>
   <circle cx="150" cy="150" r="132" fill="none" stroke="#1A1A1A" stroke-width="2"/>
 
-  <!-- little sparkles -->
-  <path d="M240 78 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z" fill="#D4472F"/>
-  <path d="M64 96 l2 6 6 2 -6 2 -2 6 -2 -6 -6 -2 6 -2z" fill="#1A1A1A"/>
+  <!-- sparkles -->
+  <path class="sp1" style="transform-box:fill-box;transform-origin:center" d="M240 78 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z" fill="#D4472F"/>
+  <path class="sp2" style="transform-box:fill-box;transform-origin:center" d="M64 96 l2 6 6 2 -6 2 -2 6 -2 -6 -6 -2 6 -2z" fill="#1A1A1A"/>
+
+  <!-- tail (behind body) -->
+  <path class="tail" d="M192 200 C224 202 230 176 214 164" stroke="#1A1A1A" stroke-width="5" stroke-linecap="round" fill="none"/>
 
   <g stroke="#1A1A1A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none">
     <!-- body sitting -->
     <path d="M108 210 C104 168 126 150 150 150 C174 150 196 168 192 210 Z" fill="#FBFAF7"/>
+    <!-- white chest bib -->
+    <path d="M150 152 C138 158 136 186 150 208 C164 186 162 158 150 152 Z" fill="#FBFAF7" stroke-width="3"/>
     <!-- head -->
     <circle cx="150" cy="126" r="40" fill="#FBFAF7"/>
     <!-- ears -->
     <path d="M120 100 L112 70 L142 92 Z" fill="#FBFAF7"/>
     <path d="M180 100 L188 70 L158 92 Z" fill="#FBFAF7"/>
-    <!-- tail -->
-    <path d="M192 200 C224 202 230 176 214 164" fill="none"/>
   </g>
 
+  <!-- tuxedo markings (forehead + ear fills + eye patches) -->
+  <path d="M117 104 L112 74 L140 93 Q150 96 160 93 L188 74 L183 104 Q168 88 150 88 Q132 88 117 104 Z" fill="#2A2621"/>
+  <path d="M124 116 Q118 128 122 138 Q112 132 116 116 Q120 110 124 116 Z" fill="#2A2621"/>
+  <path d="M176 116 Q182 128 178 138 Q188 132 184 116 Q180 110 176 116 Z" fill="#2A2621"/>
+
   <!-- face -->
-  <circle cx="137" cy="124" r="4.2" fill="#1A1A1A"/>
-  <circle cx="163" cy="124" r="4.2" fill="#1A1A1A"/>
-  <path d="M146 137 q4 5 8 0" stroke="#D4472F" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  <g class="blink">
+    <circle cx="137" cy="126" r="4.4" fill="#1A1A1A"/>
+    <circle cx="163" cy="126" r="4.4" fill="#1A1A1A"/>
+  </g>
+  <path d="M146 138 q4 5 8 0" stroke="#D4472F" stroke-width="3.5" stroke-linecap="round" fill="none"/>
   <!-- whiskers -->
   <g stroke="#1A1A1A" stroke-width="2.5" stroke-linecap="round">
-    <path d="M112 128 l-22 -4"/><path d="M112 136 l-22 4"/>
-    <path d="M188 128 l22 -4"/><path d="M188 136 l22 4"/>
+    <path d="M112 130 l-22 -4"/><path d="M112 138 l-22 4"/>
+    <path d="M188 130 l22 -4"/><path d="M188 138 l22 4"/>
   </g>
 
   <!-- laptop -->
@@ -34,8 +60,8 @@
     <rect x="112" y="196" width="76" height="42" rx="5" fill="#1A1A1A"/>
     <rect x="100" y="238" width="100" height="10" rx="5" fill="#FBFAF7"/>
   </g>
-  <!-- code lines on screen -->
+  <!-- code lines on screen (typing) -->
   <g stroke="#D4472F" stroke-width="3" stroke-linecap="round">
-    <path d="M124 210 h18"/><path d="M124 219 h30"/><path d="M124 228 h14"/>
+    <path class="c1" d="M124 210 h18"/><path class="c2" d="M124 219 h30"/><path class="c3" d="M124 228 h14"/>
   </g>
 </svg>
