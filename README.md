@@ -1,5 +1,5 @@
-<table border="0"><tr>
-<td valign="top">
+<img align="right" width="340" alt="cat coding on a laptop" src="./assets/cat-light.svg#gh-light-mode-only">
+<img align="right" width="340" alt="cat coding on a laptop" src="./assets/cat-dark.svg#gh-dark-mode-only">
 
 # 딴짓하는 류주임 🐱
 
@@ -15,13 +15,6 @@
 [![Blog](https://img.shields.io/badge/blog-chris.gomdori.app-111111?style=flat-square)](https://chris.gomdori.app)
 [![Threads](https://img.shields.io/badge/Threads-@chris__gomdori-111111?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@chris_gomdori)
 [![Stars](https://img.shields.io/github/stars/chrisryugj?style=flat-square&label=stars&color=D4472F&labelColor=111111)](https://github.com/chrisryugj)
-
-</td>
-<td valign="top" width="360" align="right">
-<img width="340" alt="cat coding on a laptop" src="./assets/cat-light.svg#gh-light-mode-only">
-<img width="340" alt="cat coding on a laptop" src="./assets/cat-dark.svg#gh-dark-mode-only">
-</td>
-</tr></table>
 
 ## A little more about me...
 
