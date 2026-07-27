@@ -1,5 +1,5 @@
-<img align="right" width="340" alt="cat coding on a laptop" src="./assets/cat-light.svg#gh-light-mode-only">
-<img align="right" width="340" alt="cat coding on a laptop" src="./assets/cat-dark.svg#gh-dark-mode-only">
+<img align="right" width="340" alt="cat coding on a laptop" src="./assets/cat-light.svg#gh-light-mode-only" style="margin-top:-48px">
+<img align="right" width="340" alt="cat coding on a laptop" src="./assets/cat-dark.svg#gh-dark-mode-only" style="margin-top:-48px">
 
 # 딴짓하는 류주임 🐱
 
