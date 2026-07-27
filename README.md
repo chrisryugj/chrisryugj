@@ -6,7 +6,8 @@
 **Public servant by day, MCP builder by night.**
 
 낮엔 공문 결재하는 공무원, 밤엔 Claude랑 MCP 서버를 찍어냅니다.
-한국 공공데이터를 API로 뚫고, 아무도 안 건드리던 HWP를 파싱하고,
+한국 공공데이터를 API로 뚫고,
+아무도 안 건드리던 HWP를 파싱하고,
 법령을 AI로 검색되게 만드는 중.
 
 `Public AX FDE` &nbsp;·&nbsp; 공공영역에 AI 심기
@@ -37,27 +38,27 @@ const gomdori = {
 <table width="100%">
 <tr>
   <td width="180"><a href="https://github.com/chrisryugj/korean-law-mcp"><b>korean-law-mcp</b></a></td>
-  <td width="72" align="right">★&nbsp;2.2k</td>
+  <td width="72" align="right">★&nbsp;<!--stars:korean-law-mcp-->2.3k<!--/stars--></td>
   <td>법제처 국가법령정보 MCP. 법령·판례·조례 + 인용 환각 검증</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/kordoc"><b>kordoc</b></a></td>
-  <td align="right">★&nbsp;1.5k</td>
+  <td align="right">★&nbsp;<!--stars:kordoc-->1.5k<!--/stars--></td>
   <td>모두 파싱해버리겠다. HWP·HWPX·PDF·Office → Markdown</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/Docufinder"><b>Docufinder</b></a></td>
-  <td align="right">★&nbsp;521</td>
+  <td align="right">★&nbsp;<!--stars:Docufinder-->562<!--/stars--></td>
   <td>파일을 찾지 말고, 내용을 찾으세요. 로컬 문서 본문 검색</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/korean-stats-mcp"><b>korean-stats-mcp</b></a></td>
-  <td align="right">★&nbsp;79</td>
+  <td align="right">★&nbsp;<!--stars:korean-stats-mcp-->81<!--/stars--></td>
   <td>KOSIS 통계 MCP. 이제 사이트에 들어가지 않습니다</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/lexdiff"><b>lexdiff</b></a></td>
-  <td align="right">★&nbsp;37</td>
+  <td align="right">★&nbsp;<!--stars:lexdiff-->37<!--/stars--></td>
   <td>한국 법령 AI 검색. 자연어 질문 → 원문 근거 답변</td>
 </tr>
 </table>

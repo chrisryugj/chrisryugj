@@ -1,0 +1,56 @@
+name: Update star counts
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"   # 매주 월요일 00:00 UTC
+  workflow_dispatch: {}     # 수동 실행 버튼
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh star counts in README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          # README 안 <!--stars:REPO-->값<!--/stars--> 마커의 REPO 이름만 추출
+          repos=$(grep -oP 'stars:\K[^-]+(?=-->)' README.md | sort -u)
+
+          fmt() {  # 별 개수 → 표시 문자열 (1000↑ 은 X.Yk, floor)
+            local n=$1
+            if [ "$n" -ge 1000 ]; then
+              local d=$((n / 100))
+              echo "${d:0:-1}.${d: -1}k"
+            else
+              echo "$n"
+            fi
+          }
+
+          for repo in $repos; do
+            # 프라이빗/삭제 레포는 404 → 스킵(기존 값 유지, 예: lexdiff)
+            n=$(gh api "repos/chrisryugj/$repo" -q .stargazers_count 2>/dev/null) || {
+              echo "skip $repo (private or not found)"; continue; }
+            val=$(fmt "$n")
+            # 마커 사이 값만 교체
+            perl -0pi -e "s/(<!--stars:\Q$repo\E-->).*?(<!--\/stars-->)/\${1}$val\${2}/g" README.md
+            echo "$repo -> $val ($n)"
+          done
+
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: refresh star counts"
+            git push
+          else
+            echo "no changes"
+          fi
