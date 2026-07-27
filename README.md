@@ -5,9 +5,9 @@
 
 **Public servant by day, MCP builder by night.**
 
-낮엔 공문 결재하는 공무원, 밤엔 Claude랑 MCP 서버를 찍어냅니다.
-한국 공공데이터를 API로 뚫고,
-아무도 안 건드리던 HWP를 파싱하고,
+낮엔 공문 결재하는 공무원, 밤엔 Claude랑 MCP 서버를 찍어냅니다.<br>
+한국 공공데이터를 API로 뚫고,<br>
+아무도 안 건드리던 HWP를 파싱하고,<br>
 법령을 AI로 검색되게 만드는 중.
 
 `Public AX FDE` &nbsp;·&nbsp; 공공영역에 AI 심기
