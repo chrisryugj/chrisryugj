@@ -48,7 +48,7 @@ const gomdori = {
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/Docufinder"><b>Docufinder</b></a></td>
-  <td align="right">★&nbsp;<!--stars:Docufinder-->627<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:Docufinder-->639<!--/stars--></td>
   <td>파일을 찾지 말고, 내용을 찾으세요. 로컬 문서 본문 검색</td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ const gomdori = {
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/lexdiff"><b>lexdiff</b></a></td>
-  <td align="right">★&nbsp;<!--stars:lexdiff-->3<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:lexdiff-->6<!--/stars--></td>
   <td>한국 법령 AI 검색. 자연어 질문 → 원문 근거 답변</td>
 </tr>
 </table>
