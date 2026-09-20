@@ -21,7 +21,7 @@ jobs:
           set -euo pipefail
 
           # README 안 <!--stars:REPO-->값<!--/stars--> 마커의 REPO 이름만 추출
-          repos=$(grep -oP 'stars:\K[^-]+(?=-->)' README.md | sort -u)
+          repos=$(grep -oP 'stars:\K[A-Za-z0-9_.-]+(?=-->)' README.md | sort -u)
 
           fmt() {  # 별 개수 → 표시 문자열 (1000↑ 은 X.Yk, floor)
             local n=$1
