@@ -40,22 +40,22 @@ const gomdori = {
 <table width="100%">
 <tr>
   <td width="180"><a href="https://github.com/chrisryugj/korean-law-mcp"><b>korean-law-mcp</b></a></td>
-  <td width="72" align="right">★&nbsp;<!--stars:korean-law-mcp-->2.5k<!--/stars--></td>
+  <td width="72" align="right">★&nbsp;<!--stars:korean-law-mcp-->2.6k<!--/stars--></td>
   <td>법제처 국가법령정보 MCP. 법령·판례·조례 + 인용 환각 검증</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/kordoc"><b>kordoc</b></a></td>
-  <td align="right">★&nbsp;<!--stars:kordoc-->1.8k<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:kordoc-->2.2k<!--/stars--></td>
   <td>모두 파싱해버리겠다. HWP·HWPX·PDF·Office → Markdown</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/Docufinder"><b>Docufinder</b></a></td>
-  <td align="right">★&nbsp;<!--stars:Docufinder-->652<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:Docufinder-->654<!--/stars--></td>
   <td>파일을 찾지 말고, 내용을 찾으세요. 로컬 문서 본문 검색</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/korean-dart-mcp"><b>korean-dart-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:korean-dart-mcp-->100<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:korean-dart-mcp-->103<!--/stars--></td>
   <td>OpenDART 전자공시 MCP. 83개 API → 15개 도구, 재무·지분·첨부까지</td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ const gomdori = {
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/lexdiff"><b>lexdiff</b></a></td>
-  <td align="right">★&nbsp;<!--stars:lexdiff-->9<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:lexdiff-->10<!--/stars--></td>
   <td>한국 법령 AI 검색. 자연어 질문 → 원문 근거 답변</td>
 </tr>
 </table>
