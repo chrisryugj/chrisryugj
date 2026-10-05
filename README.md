@@ -45,42 +45,42 @@ const gomdori = {
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/kordoc"><b>kordoc</b></a></td>
-  <td align="right">★&nbsp;<!--stars:kordoc-->2.2k<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:kordoc-->2.3k<!--/stars--></td>
   <td>모두 파싱해버리겠다. HWP·HWPX·PDF·Office → Markdown</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/Docufinder"><b>Docufinder</b></a></td>
-  <td align="right">★&nbsp;<!--stars:Docufinder-->654<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:Docufinder-->655<!--/stars--></td>
   <td>파일을 찾지 말고, 내용을 찾으세요. 로컬 문서 본문 검색</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/korean-dart-mcp"><b>korean-dart-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:korean-dart-mcp-->103<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:korean-dart-mcp-->110<!--/stars--></td>
   <td>OpenDART 전자공시 MCP. 83개 API → 15개 도구, 재무·지분·첨부까지</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/korean-stats-mcp"><b>korean-stats-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:korean-stats-mcp-->94<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:korean-stats-mcp-->97<!--/stars--></td>
   <td>KOSIS 통계 MCP. 이제 사이트에 들어가지 않습니다</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/kordoc-ai"><b>kordoc-ai</b></a></td>
-  <td align="right">★&nbsp;<!--stars:kordoc-ai-->76<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:kordoc-ai-->78<!--/stars--></td>
   <td>HWP·PDF·Office 변환·요약·비교·병합 데스크톱 앱</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/archhub-mcp"><b>archhub-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:archhub-mcp-->66<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:archhub-mcp-->69<!--/stars--></td>
   <td>국토부 건축HUB MCP. 건축물대장·인허가·노후건축물 분석</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/korean-patent-mcp"><b>korean-patent-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:korean-patent-mcp-->54<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:korean-patent-mcp-->57<!--/stars--></td>
   <td>KIPRIS 특허·상표·디자인 검색 MCP</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/schoolinfo-mcp"><b>schoolinfo-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:schoolinfo-mcp-->43<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:schoolinfo-mcp-->46<!--/stars--></td>
   <td>학교알리미 MCP. 급식·학생수·수행평가 계획 조회</td>
 </tr>
 <tr>
