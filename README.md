@@ -40,47 +40,47 @@ const gomdori = {
 <table width="100%">
 <tr>
   <td width="180"><a href="https://github.com/chrisryugj/korean-law-mcp"><b>korean-law-mcp</b></a></td>
-  <td width="72" align="right">★&nbsp;<!--stars:korean-law-mcp-->2.6k<!--/stars--></td>
+  <td width="72" align="right">★&nbsp;<!--stars:korean-law-mcp-->2.7k<!--/stars--></td>
   <td>법제처 국가법령정보 MCP. 법령·판례·조례 + 인용 환각 검증</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/kordoc"><b>kordoc</b></a></td>
-  <td align="right">★&nbsp;<!--stars:kordoc-->2.4k<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:kordoc-->2.5k<!--/stars--></td>
   <td>모두 파싱해버리겠다. HWP·HWPX·PDF·Office → Markdown</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/Docufinder"><b>Docufinder</b></a></td>
-  <td align="right">★&nbsp;<!--stars:Docufinder-->658<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:Docufinder-->661<!--/stars--></td>
   <td>파일을 찾지 말고, 내용을 찾으세요. 로컬 문서 본문 검색</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/korean-dart-mcp"><b>korean-dart-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:korean-dart-mcp-->112<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:korean-dart-mcp-->115<!--/stars--></td>
   <td>OpenDART 전자공시 MCP. 83개 API → 15개 도구, 재무·지분·첨부까지</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/korean-stats-mcp"><b>korean-stats-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:korean-stats-mcp-->98<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:korean-stats-mcp-->101<!--/stars--></td>
   <td>KOSIS 통계 MCP. 이제 사이트에 들어가지 않습니다</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/kordoc-ai"><b>kordoc-ai</b></a></td>
-  <td align="right">★&nbsp;<!--stars:kordoc-ai-->80<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:kordoc-ai-->81<!--/stars--></td>
   <td>HWP·PDF·Office 변환·요약·비교·병합 데스크톱 앱</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/archhub-mcp"><b>archhub-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:archhub-mcp-->70<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:archhub-mcp-->72<!--/stars--></td>
   <td>국토부 건축HUB MCP. 건축물대장·인허가·노후건축물 분석</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/korean-patent-mcp"><b>korean-patent-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:korean-patent-mcp-->57<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:korean-patent-mcp-->59<!--/stars--></td>
   <td>KIPRIS 특허·상표·디자인 검색 MCP</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/schoolinfo-mcp"><b>schoolinfo-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:schoolinfo-mcp-->47<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:schoolinfo-mcp-->48<!--/stars--></td>
   <td>학교알리미 MCP. 급식·학생수·수행평가 계획 조회</td>
 </tr>
 <tr>
@@ -100,12 +100,12 @@ const gomdori = {
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/edoc-summarizer"><b>edoc-summarizer</b></a></td>
-  <td align="right">★&nbsp;<!--stars:edoc-summarizer-->15<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:edoc-summarizer-->16<!--/stars--></td>
   <td>서울시 전자문서 AI 요약 Edge 확장</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/lexdiff"><b>lexdiff</b></a></td>
-  <td align="right">★&nbsp;<!--stars:lexdiff-->10<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:lexdiff-->11<!--/stars--></td>
   <td>한국 법령 AI 검색. 자연어 질문 → 원문 근거 답변</td>
 </tr>
 </table>
