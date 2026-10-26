@@ -45,22 +45,22 @@ const gomdori = {
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/kordoc"><b>kordoc</b></a></td>
-  <td align="right">★&nbsp;<!--stars:kordoc-->2.5k<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:kordoc-->2.7k<!--/stars--></td>
   <td>모두 파싱해버리겠다. HWP·HWPX·PDF·Office → Markdown</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/Docufinder"><b>Docufinder</b></a></td>
-  <td align="right">★&nbsp;<!--stars:Docufinder-->661<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:Docufinder-->667<!--/stars--></td>
   <td>파일을 찾지 말고, 내용을 찾으세요. 로컬 문서 본문 검색</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/korean-dart-mcp"><b>korean-dart-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:korean-dart-mcp-->115<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:korean-dart-mcp-->118<!--/stars--></td>
   <td>OpenDART 전자공시 MCP. 83개 API → 15개 도구, 재무·지분·첨부까지</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/korean-stats-mcp"><b>korean-stats-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:korean-stats-mcp-->101<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:korean-stats-mcp-->102<!--/stars--></td>
   <td>KOSIS 통계 MCP. 이제 사이트에 들어가지 않습니다</td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ const gomdori = {
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/archhub-mcp"><b>archhub-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:archhub-mcp-->72<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:archhub-mcp-->73<!--/stars--></td>
   <td>국토부 건축HUB MCP. 건축물대장·인허가·노후건축물 분석</td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ const gomdori = {
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/schoolinfo-mcp"><b>schoolinfo-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:schoolinfo-mcp-->48<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:schoolinfo-mcp-->49<!--/stars--></td>
   <td>학교알리미 MCP. 급식·학생수·수행평가 계획 조회</td>
 </tr>
 <tr>
@@ -90,22 +90,22 @@ const gomdori = {
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/hermes-dashboard"><b>hermes-dashboard</b></a></td>
-  <td align="right">★&nbsp;<!--stars:hermes-dashboard-->40<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:hermes-dashboard-->41<!--/stars--></td>
   <td>Hermes Agent 게이트웨이 웹 대시보드. CLI 없이 설정·MCP·크론 관리</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/ollama-mcp-host"><b>ollama-mcp-host</b></a></td>
-  <td align="right">★&nbsp;<!--stars:ollama-mcp-host-->22<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:ollama-mcp-host-->24<!--/stars--></td>
   <td>로컬 Ollama로 MCP 서버 여러 개 동시 구동. 내부망·오프라인</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/edoc-summarizer"><b>edoc-summarizer</b></a></td>
-  <td align="right">★&nbsp;<!--stars:edoc-summarizer-->16<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:edoc-summarizer-->19<!--/stars--></td>
   <td>서울시 전자문서 AI 요약 Edge 확장</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/lexdiff"><b>lexdiff</b></a></td>
-  <td align="right">★&nbsp;<!--stars:lexdiff-->11<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:lexdiff-->12<!--/stars--></td>
   <td>한국 법령 AI 검색. 자연어 질문 → 원문 근거 답변</td>
 </tr>
 </table>
