@@ -40,12 +40,12 @@ const gomdori = {
 <table width="100%">
 <tr>
   <td width="180"><a href="https://github.com/chrisryugj/korean-law-mcp"><b>korean-law-mcp</b></a></td>
-  <td width="72" align="right">★&nbsp;<!--stars:korean-law-mcp-->2.7k<!--/stars--></td>
+  <td width="72" align="right">★&nbsp;<!--stars:korean-law-mcp-->2.8k<!--/stars--></td>
   <td>법제처 국가법령정보 MCP. 법령·판례·조례 + 인용 환각 검증</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/kordoc"><b>kordoc</b></a></td>
-  <td align="right">★&nbsp;<!--stars:kordoc-->2.7k<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:kordoc-->2.8k<!--/stars--></td>
   <td>모두 파싱해버리겠다. HWP·HWPX·PDF·Office → Markdown</td>
 </tr>
 <tr>
@@ -70,12 +70,12 @@ const gomdori = {
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/archhub-mcp"><b>archhub-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:archhub-mcp-->73<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:archhub-mcp-->74<!--/stars--></td>
   <td>국토부 건축HUB MCP. 건축물대장·인허가·노후건축물 분석</td>
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/korean-patent-mcp"><b>korean-patent-mcp</b></a></td>
-  <td align="right">★&nbsp;<!--stars:korean-patent-mcp-->59<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:korean-patent-mcp-->61<!--/stars--></td>
   <td>KIPRIS 특허·상표·디자인 검색 MCP</td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ const gomdori = {
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/fable-ish"><b>fable-ish</b></a></td>
-  <td align="right">★&nbsp;<!--stars:fable-ish-->39<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:fable-ish-->40<!--/stars--></td>
   <td>Claude Code 검증 게이트. 검증 전엔 done이라 말하지 않는다</td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ const gomdori = {
 </tr>
 <tr>
   <td><a href="https://github.com/chrisryugj/lexdiff"><b>lexdiff</b></a></td>
-  <td align="right">★&nbsp;<!--stars:lexdiff-->12<!--/stars--></td>
+  <td align="right">★&nbsp;<!--stars:lexdiff-->13<!--/stars--></td>
   <td>한국 법령 AI 검색. 자연어 질문 → 원문 근거 답변</td>
 </tr>
 </table>
